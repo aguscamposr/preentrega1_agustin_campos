@@ -1,0 +1,16 @@
+.navbar-brand {
+    margin-left: 2rem;
+}
+.navbar__cart-icon {
+    margin-right: 0.5rem;
+}
+
+.navbar__cart-count {
+    font-size: 0.8rem;
+}
+.nav-item {
+    padding: 1rem;
+    margin: 1rem;
+    border: 2px;
+    border-radius: 5px;
+}
